@@ -1,3 +1,3 @@
-echo "Goodbye"
-echo "cruel"
+echo "bye"
+echo "to this cruel"
 echo "world"
